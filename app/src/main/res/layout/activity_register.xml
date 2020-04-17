@@ -8,8 +8,8 @@
               android:paddingLeft="@dimen/activity_horizontal_margin"
               android:paddingRight="@dimen/activity_horizontal_margin"
               android:paddingTop="@dimen/activity_vertical_margin"
-              android:background="@drawable/background_login_min"
-              tools:context="com.londonappbrewery.flashchatnewfirebase.RegisterActivity"
+              android:background="@drawable/mini"
+              tools:context="com.siddhantrathi.flashchatnewfirebase.RegisterActivity"
               android:gravity="top">
 
 
